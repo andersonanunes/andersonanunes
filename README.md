@@ -8,8 +8,6 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=andersonanunes&theme=great-gatsby&show_icons=true&line_height=40)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonanunes&langs_count=5&layout=default&theme=great-gatsby)
 
-![Snake animation](https://github.com/andersonanunes/andersonanunes/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **andersonanunes/andersonanunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
