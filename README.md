@@ -57,7 +57,7 @@
 
 ## Design
 
-<div style="display:inline-block; padding-right:1em"><br>
+<div style="display:inline-block; padding-right:3em"><br>
   <img align="center" alt="Photoshop" title="Photoshop" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Photoshop.png" />
   <img align="center" alt="Illustrator" title="Illustrator" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Illustrator.png" />
   <img align="center" alt="InDesign" title="InDesign" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/InDesign.png" />
