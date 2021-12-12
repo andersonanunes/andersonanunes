@@ -59,13 +59,13 @@
 
 <div style="display:inline-block"><br>
   <img align="center" alt="Photoshop" title="Photoshop" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Photoshop.png" />
-  <img align="center" alt="Illustrator" title="Illustrator" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Illustrator.svg" />
-  <img align="center" alt="InDesign" title="InDesign" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/InDesign.svg" />
-  <img align="center" alt="Premiere" title="Premiere" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Premiere.svg" />
-  <img align="center" alt="After Effects" title="After Effects" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/After-Effects.svg" />
-  <img align="center" alt="Adobe XD" title="Adobe XD" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Adobe-XD.svg" />
-  <img align="center" alt="Acrobat" title="Acrobat" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Acrobat.svg" />
-  <img align="center" alt="Acrobat Distiller" title="Acrobat Distiller" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Acrobat-Distiller.svg" />
+  <img align="center" alt="Illustrator" title="Illustrator" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Illustrator.png" />
+  <img align="center" alt="InDesign" title="InDesign" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/InDesign.png" />
+  <img align="center" alt="Premiere" title="Premiere" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Premiere.png" />
+  <img align="center" alt="After Effects" title="After Effects" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/After-Effects.png" />
+  <img align="center" alt="Adobe XD" title="Adobe XD" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Adobe-XD.png" />
+  <img align="center" alt="Acrobat" title="Acrobat" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Acrobat.png" />
+  <img align="center" alt="Acrobat Distiller" title="Acrobat Distiller" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Acrobat-Distiller.png" />
 </div>
 
 <!--
