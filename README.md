@@ -58,12 +58,12 @@
 ## Design
 
 <div style="display:inline-block"><br>
-  <img align="center" alt="Photoshop" title="Photoshop" height="30" width="40" src="" />
-  <img align="center" alt="Illustrator" title="Illustrator" height="30" width="40" src="" />
+  <img align="center" alt="Photoshop" title="Photoshop" height="30" width="40" src="https://https://www.whodesigners.com.br/icons_svg/Photoshop.svg" />
+  <img align="center" alt="Illustrator" title="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="InDesign" title="InDesign" height="30" width="40" src="" />
   <img align="center" alt="Premiere" title="Premiere" height="30" width="40" src="" />
-  <img align="center" alt="After Effects" title="After Effects" height="30" width="40" src="" />
-  <img align="center" alt="Adobe XD" title="Adobe XD" height="30" width="40" src="" />
+  <img align="center" alt="After Effects" title="After Effects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+  <img align="center" alt="Adobe XD" title="Adobe XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" alt="Acrobat" title="Acrobat" height="30" width="40" src="" />
   <img align="center" alt="Acrobat Distiller" title="Acrobat Distiller" height="30" width="40" src="" />
 </div>
