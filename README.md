@@ -9,9 +9,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511975552914&text=Olá!)](https://api.whatsapp.com/send?phone=5511975552914&text=Olá!)
 
 <div>
-  ![YOUR github stats]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonanunes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-  ![Top Linguagens]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonanunes&layout=compact&langs_count=16&theme=great-gatsby" />
 </div>
 
@@ -70,8 +68,10 @@
   <img align="center" alt="Acrobat Distiller" title="Acrobat Distiller" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Acrobat-Distiller.png" />
 </div>
 
+<div>
 ![Snake Animation](https://github.com/andersonanunes/blob/output/github-contribution-grid-snake-svg)
-
+</div>
+  
 <!--
 **andersonanunes/andersonanunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
