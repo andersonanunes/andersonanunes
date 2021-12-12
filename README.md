@@ -57,7 +57,7 @@
 
 ## Design
 
-<div class="icons-adobe" style="display:inline-block"><br>
+<div style="display:inline-block; padding-right:1em"><br>
   <img align="center" alt="Photoshop" title="Photoshop" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Photoshop.png" />
   <img align="center" alt="Illustrator" title="Illustrator" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Illustrator.png" />
   <img align="center" alt="InDesign" title="InDesign" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/InDesign.png" />
@@ -73,11 +73,6 @@
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonanunes&langs_count=5&layout=default&theme=great-gatsby)
 -->
 
-<style type="text/css">
-.icons-adobe {
-  margin-right: 1em;
-}
-</style>
 
 <!--
 **andersonanunes/andersonanunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
