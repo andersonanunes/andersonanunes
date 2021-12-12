@@ -58,7 +58,7 @@
 ## Design
 
 <div style="display:inline-block"><br>
-  <img align="center" alt="Photoshop" title="Photoshop" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Photoshop.svg" />
+  <img align="center" alt="Photoshop" title="Photoshop" height="30" width="40" src="https://www.whodesigners.com.br/icones/png/Photoshop.png" />
   <img align="center" alt="Illustrator" title="Illustrator" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Illustrator.svg" />
   <img align="center" alt="InDesign" title="InDesign" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/InDesign.svg" />
   <img align="center" alt="Premiere" title="Premiere" height="30" width="40" src="https://www.whodesigners.com.br/icones/svg/Premiere.svg" />
