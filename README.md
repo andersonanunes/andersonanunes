@@ -60,9 +60,7 @@
   <img align="center" alt="InDesign" title="InDesign" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/InDesign.png" />
   <img align="center" alt="Premiere" title="Premiere" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Premiere.png" />
   <img align="center" alt="After Effects" title="After Effects" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/After-Effects.png" />
-  <img align="center" alt="Adobe XD" title="Adobe XD" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Adobe-XD.png" />
   <img align="center" alt="Acrobat" title="Acrobat" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Acrobat.png" />
-  <img align="center" alt="Acrobat Distiller" title="Acrobat Distiller" height="30" width="30" src="https://www.whodesigners.com.br/icones/png/Acrobat-Distiller.png" />
 </div>
 
 ##
