@@ -9,8 +9,12 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511975552914&text=Olá!)](https://api.whatsapp.com/send?phone=5511975552914&text=Olá!)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonanunes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonanunes&layout=compact&langs_count=8&theme=great-gatsby" />
+  <img 
+       height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=andersonanunes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+  <img 
+       height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonanunes&layout=compact&langs_count=8&theme=great-gatsby" />
 </div>
 
 ## Linguagens
