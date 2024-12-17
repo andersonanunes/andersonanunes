@@ -2,7 +2,7 @@
 
 # Anderson Anselmi Nunes
 - 🔭 I’m currently working on QA Tests Automated with Robot Framework, Ruby or Java
-- 🌱 I’m currently learning React, Docker, SpringBoot, Kotlin, Google Cloud Platform
+- 🌱 I’m currently learning React, Docker, Azure DevOps
 - 📫 How to reach me: Look at my social networks below
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonanunes/)](https://www.linkedin.com/in/andersonanunes/)
